@@ -8,7 +8,7 @@ Bu projenin amacı, güvenlik, konfor ve enerji verimliliği sağlayan entegre b
 
 ## 2. Proje Hedefleri
 - Ev güvenliğini artırmak için akıllı kapı erişim sistemi oluşturmak.
-- Enerji tasarrufu sağlamak amacıyla ortam aydınlatmasını optimize etmek.
+- Enerji tasarrufu sağlamak amacıyla ortam aydınlatmasını otomatik kontrol etmek.
 - Mobil uygulama ile sistemin kontrolünü sağlamak.
 - Hareket ve sıcaklık verilerini kaydederek analiz edilebilir hale getirmek.
 
@@ -22,10 +22,10 @@ Bu projenin amacı, güvenlik, konfor ve enerji verimliliği sağlayan entegre b
 
 ## 4. Kaynak Planlaması
 ### Ekip Üyeleri ve Görev Dağılımı
-- **Emir Karaman**: Donanım tasarımı ve entegrasyonu
-- **Furkan Yaylaz**: Mikrodenetleyici programlaması
-- **Metehan Sözenli**: Veri yönetimi ve analiz
-- **Mustafa Yüksel Yılmaz**: Mobil uygulama geliştirme
+- **Emir Karaman**: Sistem tasarımı ve mobil uygulama geliştirme
+- **Furkan Yaylaz**: Sistem tasarımı ve mobil uygulama geliştirme
+- **Metehan Sözenli**: Sistem tasarımı ve mobil uygulama geliştirme
+- **Mustafa Yüksel Yılmaz**: Sistem tasarımı ve mobil uygulama geliştirme
 
 ### Kullanılacak Ekipmanlar
 | Ekipman | Görsel |
