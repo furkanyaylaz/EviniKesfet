@@ -22,10 +22,10 @@ Bu projenin amacı, güvenlik, konfor ve enerji verimliliği sağlayan entegre b
 
 ## 4. Kaynak Planlaması
 ### Ekip Üyeleri ve Görev Dağılımı
-- **Emir Karaman**: Sistem tasarımı ve mobil uygulama geliştirme
-- **Furkan Yaylaz**: Sistem tasarımı ve mobil uygulama geliştirme
-- **Metehan Sözenli**: Sistem tasarımı ve mobil uygulama geliştirme
-- **Mustafa Yüksel Yılmaz**: Sistem tasarımı ve mobil uygulama geliştirme
+- **Emir Karaman**: Sistem tasarımı ve haberleşme
+- **Furkan Yaylaz**: Sistem tasarımı ve haberleşme
+- **Metehan Sözenli**: Haberleşme ve mobil geliştirme
+- **Mustafa Yüksel Yılmaz**: Haberleşme ve mobil geliştirme
 
 ### Kullanılacak Ekipmanlar
 | Ekipman | Görsel |
