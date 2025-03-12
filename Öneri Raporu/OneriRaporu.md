@@ -18,7 +18,6 @@ Bu projenin amacı, güvenlik, konfor ve enerji verimliliği sağlayan entegre b
 | Donanım seçimi ve entegrasyonu | 2 hafta |
 | Sensör ve mikrodenetleyici programlaması | 2 hafta |
 | Mobil uygulama geliştirme | 3 hafta |
-| Veri depolama ve analiz entegrasyonu | 1 hafta |
 | Testler, Son kontroller ve teslimat| 1 hafta |
 
 ## 4. Kaynak Planlaması
